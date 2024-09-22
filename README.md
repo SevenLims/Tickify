@@ -1,8 +1,15 @@
-# A Blockchain Ticketing System for Campus Events
+# Gamified Blockchain Ticketing System for Campus Events
 
-## Overview
+## Main Initiatives of the Project
 
-This project introduces a decentralized blockchain-based ticketing system specifically designed for campus events. It removes the need for intermediaries and provides a secure, efficient way to purchase, verify, and authenticate event tickets. The system also includes a reward system that allows users to earn vouchers through a lottery game.
+a) Simplified Event Access: 
+Access a wide variety of campus events without the need for intermediaries or lengthy approval processes.
+
+b) Blockchain-Based Ticket Verification: 
+Each ticket is linked to a unique blockchain-based QR code, ensuring secure verification and authentication.
+
+c) Reward System: 
+Users can participate in a lottery game to earn vouchers with QR codes, which can be redeemed for special benefits.
 
 ## Prerequisites
 
@@ -18,13 +25,5 @@ Follow these steps to get the project running on your localhost:
    Step 2: yarn dev or npm dev
    Step 3: You're good to use! Open up your "http://localhost:3000"
 
-## Main Initiatives of the Project
-Simplified Event Access
-Access a wide variety of campus events without the need for intermediaries or lengthy approval processes.
 
-Blockchain-Based Ticket Verification
-Each ticket is linked to a unique blockchain-based QR code, ensuring secure verification and authentication.
-
-Reward System
-Users can participate in a lottery game to earn vouchers with QR codes, which can be redeemed for special benefits.
    
