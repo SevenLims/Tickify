@@ -14,8 +14,17 @@ This project introduces a decentralized blockchain-based ticketing system specif
 Follow these steps to get the project running on your localhost:
 
 1. Run the following command to install the required dependencies:
-   ```bash
-   yarn install or npm install
-   ```bash
-   yarn dev or npm dev
+   Step 1: yarn install or npm install
+   Step 2: yarn dev or npm dev
+   Step 3: You're good to use! Open up your "http://localhost:3000"
+
+## Main Initiatives of the Project
+Simplified Event Access
+Access a wide variety of campus events without the need for intermediaries or lengthy approval processes.
+
+Blockchain-Based Ticket Verification
+Each ticket is linked to a unique blockchain-based QR code, ensuring secure verification and authentication.
+
+Reward System
+Users can participate in a lottery game to earn vouchers with QR codes, which can be redeemed for special benefits.
    
