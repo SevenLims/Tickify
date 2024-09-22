@@ -21,8 +21,11 @@ Users can participate in a lottery game to earn vouchers with QR codes, which ca
 Follow these steps to get the project running on your localhost:
 
 1. Run the following command to install the required dependencies:
+   
    Step 1: yarn install or npm install
+   
    Step 2: yarn dev or npm dev
+   
    Step 3: You're good to use! Open up your "http://localhost:3000"
 
 
