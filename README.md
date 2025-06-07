@@ -13,8 +13,8 @@ Users can participate in a lottery game to earn vouchers with QR codes, which ca
 
 ## Prerequisites
 
-1. Download and unzip the project folder to your localhost directory (e.g., `C:/Users/User/`).
-2. Ensure that Node.js and Yarn or npm are installed on your system.
+1. Download and unzip the project folder to your localhost directory.
+2. Ensure that Node.js and yarn/npm manager are installed on your system.
 
 ## Installation & Setup
 
@@ -22,7 +22,7 @@ Follow these steps to get the project running on your localhost:
 
 1. Run the following command to install the required dependencies:
    
-   Step 1: yarn install or npm install
+   Step 1: yarn install / npm install
    
    Step 2: yarn dev or npm dev
    
